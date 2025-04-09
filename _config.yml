@@ -1,5 +1,5 @@
 title: Dr. Sergey Khrapak
-# logo: /Assets/photo_circle.jpg
+logo: /Assets/photo_circle.jpg
 description: Data Analytics portfolio. Feel free to explore and reach out!
 # show_downloads = true
-theme: jekyll-theme-minimal
+remote_theme: mistakes/minimal-mistakes@latest
