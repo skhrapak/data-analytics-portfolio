@@ -59,5 +59,9 @@ INFLUENZA COMING
 -[View Tableau Visualization](https://public.tableau.com/app/profile/sergey.khrapak/viz/InfluenzaComing_Published/InfluenzaComing?publish=yes)
 
   
+### Contacts: 
+Dr. Sergey Khrapak
+Email: sergey.khrapak(AT)gmx.de
+
 
 
