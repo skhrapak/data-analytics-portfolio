@@ -43,8 +43,8 @@ onboard International Space Station.
 
 ## Special Courses
 
-- Data Analytics, FataFoundry (_October 2024 - April 2025_)
-- Power BI, Eduson (_July 2023 - February 2024_) 
+- Data Analytics | FataFoundry (_October 2024 - April 2025_)
+- Power BI  |  Eduson (_July 2023 - February 2024_) 
   
 
 
