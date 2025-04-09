@@ -1,6 +1,6 @@
 markdown
 
-<img src = "Assets/photo_crcle.jpg" alt = "Site Logo" width = 200>
+<img src = "/Assets/photo_crcle.jpg" alt = "Logo" width = 200>
 
 # Data Analyst & Researcher
 
