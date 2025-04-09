@@ -44,7 +44,17 @@ onboard International Space Station.
 ## Special Courses
 
 - Data Analytics | FataFoundry (_October 2024 - April 2025_)
-- Power BI  |  Eduson (_July 2023 - February 2024_) 
+- Power BI  |      Eduson (_July 2023 - February 2024_)
+
+## View my Resume
+
+[View my Resume (PDF)](Assets/CV_Khrapak_Apr2025_DA.pdf)
+
+## Selected Projects
+
+INFLUENZA COMING
+
+- 
   
 
 
