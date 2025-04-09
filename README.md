@@ -1,7 +1,3 @@
-markdown
-
-<img src = "/Assets/photo_crcle.jpg" alt = "Logo" width = 200>
-
 # Data Analyst & Researcher
 
 #### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Mathematica, Origin
