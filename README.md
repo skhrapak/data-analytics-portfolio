@@ -54,9 +54,9 @@ onboard International Space Station.
 
 INFLUENZA COMING
 
--[View Project Report (PDF)](Assets/CaseStudy.pdf)
+[View Project Report (PDF)](Assets/CaseStudy.pdf)
 
--[View Tableau Visualization](https://public.tableau.com/app/profile/sergey.khrapak/viz/InfluenzaComing_Published/InfluenzaComing?publish=yes)
+[View Tableau Visualization](https://public.tableau.com/app/profile/sergey.khrapak/viz/InfluenzaComing_Published/InfluenzaComing?publish=yes)
 
   
 ## Contacts: 
