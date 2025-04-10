@@ -67,7 +67,7 @@ Email: sergey.khrapak(AT)gmx.de
 
 [LinkedIn](https://www.linkedin.com/in/sergeykhrapak)
 
-[Github](https://skhrapak.github.io)
+[Github](https://github.com/skhrapak)
 
 
 
