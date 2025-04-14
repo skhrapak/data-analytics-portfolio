@@ -2,62 +2,47 @@
 
 #### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Mathematica, Origin
 
-## Work Experience
+## About
 
-CONSULTANT IN DATA ANALYTICS (Freelance), Munich, Germany (_2023-2025_)
- - Development of Power BI tools for financial department (Financial 
-Reporting, Rentability, Costs Analysis)
+As a researcher with over 25 years of experience in theoretical physics -- including plasma
+physics, condensed matter and physics of fluids -- I have a strong background in complex
+data analysis, mathematical modeling, and problem-solving. Throughout my career, I have
+worked extensively with large and complex datasets, identifying patterns, correlations, and
+trends, as well as developing models and theories to drive scientific discoveries.
 
-SENIOR RESEARCHER, Joint Institute for High 
-Temperatures (Remote Role), Moscow, Russia (_2021-2025_)
-- Remote academic research position
+My recent involvement in data analytics has expanded my skill set to include Python, Power
+BI, Tableau, SQL, and statistical analysis. My expertise in handling datasets of varying sizes
+and complexities, combined with my strong analytical mindset, enables me to transform raw
+data into meaningful insights that support informed decision-making.
 
-SENIOR RESEARCHER, Bauman Moscow State Technical 
-University, Moscow, Russia (_2020-2022_)
-- Part time position as a PI of the project “Collective dynamics, 
-elastic and transport properties of classical fluids in different 
-regimes of interparticle interaction”
+I am excited to apply my scientific approach and technical expertise to real-world business
+challenges, leveraging data to optimize processes, improve efficiency, and drive strategic
+success.
 
-THEORETICAL PHYSICIST, German Aerospace Center (DLR), Oberpfaffenhofen, Germany (_2014-2021_)
+Looking for ways to improve your team’s performance and make data-informed decisions?
+Contact me at sergey.khrapak@gmx.de
 
--Theoretical support for Plasma Kristall (PK) experimental program 
-onboard International Space Station. 
-
-CHAIR OF EXCELLENCE, Aix-Marseille University, Marseille, France (_2015-2018_)
-
-- PI of the project “Research Axisfor Interdisciplinary Plasma Physics”
-- Group Leader
-- Theoretical research into fusion plasma, complex plasma and soft condensed matter. 
-
-RESEARCH SCIENTIST, Max-Planck-Institute for Extraterrestrial Physics, Garching, Germany (_2000-2013_)
-
-- Theoretical support for Plasma Kristall (PK) experimental program 
-onboard International Space Station.
-- Discovery of new effects in plasma-particle interactions.
-
-## Education
- 
-- Ph. D., Physics |  Moscow Institute of Physics and Technology
-- M.S., Physics   |  Moscow Institute of Physics and Technology
-
-
-## Special Courses
-
-- Data Analytics | CareerFoundry (_October 2024 - April 2025_)
-- Power BI       |      Eduson (_July 2023 - February 2024_)
 
 ## View my Resume
 
 [View my Resume (PDF)](Assets/CV_Khrapak_Apr2025_DA.pdf)
 
-## Selected Projects
+## Selected Projects 
 
 INFLUENZA COMING
+Tools: Excel, Tableau
 
 [View Project Report (PDF)](Assets/CaseStudy.pdf)
 
 [View Tableau Visualization](https://public.tableau.com/app/profile/sergey.khrapak/viz/InfluenzaComing_Published/InfluenzaComing?publish=yes)
 
+GAMECO MARKET REPORT
+Tools: Excel, Power BI
+
+[View Project Report (PDF)](Assets/GameCo_Report_1.pdf)
+
+THE RATINGS
+Tools: Python, Tableau
   
 ## Contacts: 
 
