@@ -20,7 +20,7 @@ challenges, leveraging data to optimize processes, improve efficiency, and drive
 success.
 
 Looking for ways to improve your team’s performance and make data-informed decisions?
-Contact me at sergey.khrapak@gmx.de
+Contact me at sergey.khrapak(AT)gmx.de
 
 
 ## View my Resume
@@ -30,19 +30,26 @@ Contact me at sergey.khrapak@gmx.de
 ## Selected Projects 
 
 INFLUENZA COMING
-Tools: Excel, Tableau
+Tools: Tableau
 
 [View Project Report (PDF)](Assets/CaseStudy.pdf)
 
 [View Tableau Visualization](https://public.tableau.com/app/profile/sergey.khrapak/viz/InfluenzaComing_Published/InfluenzaComing?publish=yes)
 
 GAMECO MARKET REPORT
-Tools: Excel, Power BI
+Tools: Power BI
 
-[View Project Report (PDF)](Assets/GameCo_Report_1.pdf)
+[View Project Report (PDF)](Assets/CaseStudy_GameCo.pdf)
+
+[View Power BI Dashboard](Assets/GameCo_Report_1.pdf)
 
 THE RATINGS
 Tools: Python, Tableau
+
+[View Project Report (PDF)](Assets/CaseStudyTHE.pdf)
+
+[View Tableau Visualization](https://public.tableau.com/app/profile/sergey.khrapak/viz/THERankings/THERating)
+
   
 ## Contacts: 
 
