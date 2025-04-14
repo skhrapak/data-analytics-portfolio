@@ -4,8 +4,8 @@
 
 ## About
 
-As a researcher with over 25 years of experience in theoretical physics -- including plasma
-physics, condensed matter and physics of fluids -- I have a strong background in complex
+As a researcher with over 25 years of experience in theoretical physics - including plasma
+physics, condensed matter and physics of fluids - I have a strong background in complex
 data analysis, mathematical modeling, and problem-solving. Throughout my career, I have
 worked extensively with large and complex datasets, identifying patterns, correlations, and
 trends, as well as developing models and theories to drive scientific discoveries.
